@@ -1,0 +1,19 @@
+{
+	"num_workers": 2,
+	"chunk_size": 32,
+
+  "cpus": [
+    {
+      "id": "cpu1",
+      "data_section": "data_cpu1.bin"
+    },
+    {
+      "id": "cpu2",
+      "data_section": "data_cpu2.bin"
+    },
+    {
+      "id": "cpu3",
+      "data_section": "data_cpu3.bin"
+    }
+  ]
+}

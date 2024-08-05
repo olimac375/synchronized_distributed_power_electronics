@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<system>
+    <project configuration="CPU1_FLASH" id="project_1500687502" name="Director_alg_cpu1"/>
+    <core id="C28xx_CPU1" project="project_1500687502"/>
+    <project configuration="CPU2_FLASH" id="project_2082441817" name="Director_comms_cpu2"/>
+    <core id="C28xx_CPU2" project="project_2082441817"/>
+</system>
